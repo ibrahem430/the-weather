@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    background-image: url('/images/Climate-Weather-Blue-Clouds-1280px-1024x576.webp');
+
+    background-repeat: no-repeat;
+  background-size: cover;
+height: 100vh;
+}
+.imgSize{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.styleLabel{
+  border-radius: 15px;
+  padding: 20px;
+  font-size: large;
+
+}
+.styleTextLable{
+  font-size: 50px;
+  color: white;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 1000;
+}
